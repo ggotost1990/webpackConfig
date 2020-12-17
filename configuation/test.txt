@@ -1,4 +1,9 @@
 hello,world!
 document test
 already push
+<<<<<<< HEAD
 this is master
+=======
+this is feature1 branch
+>>>>>>> feature1
+Creating a new branch is quick and simple.
