@@ -1,5 +1,4 @@
 hello,world!
 document test
 already push
-<<<<<<< HEAD
 this is feature1 branch
